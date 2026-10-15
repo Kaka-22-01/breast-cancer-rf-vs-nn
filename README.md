@@ -89,7 +89,7 @@ Neural network (permutation importance):
 ## How to Run
 
 ```bash
-git clone https://github.com/<your-username>/breast-cancer-rf-vs-nn.git
+git clone https://github.com/<Kaka-22-01>/breast-cancer-rf-vs-nn.git
 cd breast-cancer-rf-vs-nn
 pip install -r requirements.txt
 jupyter notebook
